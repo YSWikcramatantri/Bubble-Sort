@@ -1,2 +1,2 @@
 # Bubble-Sort
-code built on Bubble sort algorithem
+This is a Bubble sorting algorithem
